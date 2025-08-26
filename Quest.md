@@ -30,7 +30,18 @@ Long before the gods shaped the Planes, before Veeshan scarred Norrath, the Name
 
 This quest will send players across every expansion, level locked and require payment of AA to proceed at certain point to prevent speed runs. The quest will use old and new lore. The player will hunt down fragments of the Shattered Seal, each tied to a realm, a god, or a forgotten villain and do so before the Nameless Echo can return to Norrath.
 
-## The Shattered Seal
+## Outline
+
+| Act | Expansion / Region             | Level Requirement | AA Cost |
+| --- | ------------------------------ | ----------------- | ------- |
+| 1   | Antonica & Odus                | 50+               | 0       |
+| 2   | Faydwer and the Classic Planes | 55+               | 25      |
+| 3   | Kunark                         | 60+               | 40      |
+| 4   | Velious                        | 65+               | 50      |
+| 5   | Luclin                         | 70+               | 75      |
+| 6   | The Planes                     | 75+               | 100     |
+
+# The Shattered Seal
 
 ### Act 1 - Whispers in the World (Classic)
 
@@ -135,7 +146,8 @@ Dark Scholar
 
 Greedy Merchant
 
-> <span style="color:#15803d">“Hail Greedy Merchant.”</span> > <span style="color:#1d4ed8">“Another seeker of odd trinkets. A rusted key, you say? Metal remembers what hands have done to it.</span>
+> <span style="color:#15803d">“Hail Greedy Merchant.”</span>
+> <span style="color:#1d4ed8">“Another seeker of odd trinkets. A rusted key, you say? Metal remembers what hands have done to it.</span>
 >
 > <span style="color:#15803d">“Can you polish it?”</span>
 > <span style="color:#1d4ed8">“Leave it to me. I work metal and memory. A careful scrubbing and a whisper to the metal will wake whatever lies inside.”</span>
