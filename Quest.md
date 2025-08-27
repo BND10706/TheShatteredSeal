@@ -43,7 +43,7 @@ This quest will send players across every expansion, level locked and require pa
 
 # The Shattered Seal
 
-### Act 1 - Whispers in the World (Classic)
+### Act 1 - Whispers in the World (Classic Antonica and Odus)
 
 Any player level 50 and above when they log in will see the following system message until they visit “The Dreaming Oracle” in West Freeport near the wall away from anyone normally walking by.
 
@@ -340,7 +340,7 @@ Erudin Scholar
 - Polished Shell of Erud’s Crossing
 
 Once combined
-New item created Satchel of the Complete Echo
+New item created Satchel of the Complete Antonica Echo
 
 > <span style="color:#d97706">“The satchel stirs with gathered echoes. Return to the Dreaming Oracle in West Freeport.”</span>
 
@@ -377,3 +377,219 @@ Killing the NPC and all the custom fight here will yeild "Piece of the Seal"
 > <span style="color:#1d4ed8">“With this fragment, the Seal calls you forward. Follow the echoes bearer, and prepare yourself. The trials ahead will test all that you have become, and all that you are yet to discover.”</span>
 >
 > ##### <span style="color:#7e22ce">(Player Flag)</span>
+
+## Recieve Fragment of the Shattered Seal
+(Need stats)
+Augment item primary only
+
+
+### Act 2 – Echoes Among Emerald Leaves (Faydwer and the Classic Planes)
+
+><span style="color:#15803d">“Hail The Dreaming Oracle.”</span>
+><span style="color:#1d4ed8">“The Seal trembles with the piece you carry. But I sense the chorus incomplete… the echoes in Faydwer still sing off-key. Ancient woods and crystal caverns… even the homes of gods and ideals hide their fragments. You must continue, Bearer.”</span>
+>
+><span style="color:#15803d">“Where must I go next?”</span>
+><span style="color:#1d4ed8">“Across the sea to Faydwer, where emerald crowns the land and iron runs beneath. The fragments there are older still, and they twist the realms of mortals and gods alike. Yet beware—the fragments stir not only in the mortal soil but in the domains shaped by belief itself. The Planes whisper, and they do not welcome thieves.”</span>
+>
+><span style="color:#15803d">“And what must I do to begin this step?”</span>
+><span style="color:#1d4ed8">“Such paths are costly, Bearer. The Seal demands more of you as its voice grows clearer. To take this next step, you must part with 
+>25 of your hard-earned AAs and 5000 platinum. Only then may the echoes bind you to their song.”</span>
+>
+><span style="color:#15803d">“I am ready to pay the cost.”</span>
+><span style="color:#1d4ed8">“So it shall be. With this offering, your strength deepens, your resolve sharpens. The Seal stirs once more—its next whispers echo in Faydwer’s roots, and in the eternal trials of the Planes. Take this vessel, Bearer. As before, within its folds shall the fragments rest until they are ready to sing as one.””</>span>
+>
+><span style="color:#7e22ce">(Player Flag)</span>
+>
+><span style="color:#d97706">System Message: You feel the Seal stir. A new path opens—the fragments of Faydwer and the Planes now call to you.</span>
+
+#### Oracle Gives Quest Item:
+
+- Item: Unmarked Satchel of Faydwer
+- Description: “The satchel sings faintly”
+- Slots: 20
+- Function: Holds Act 2 items
+
+
+### Act 2 Collection / Sub quests
+
+#### Act 2 – Fragments, Hints, and Exchanges (Faydwer and Classic Planes)
+
+| # | Zone | Location | Mob / Source | Raw Item | Type | Drop Chance | NPC / Subquest | Final Item |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | Greater Faydark (Kelethin) | Beneath the lift platforms | Ground spawn | Fragment of Emerald Canopy | Ground pickup | 100% | Wood Elf Druid (Kelethin) purifies it | Purified Canopy Fragment |
+| 2 | Estate of Unrest | Banquet hall | Death Beetle Swarm | Chitinous Beetle Carapace | Loot drop | 15% | Dwarf Blacksmith (Kaladim) reforges it | Tempered Beetle Carapace |
+| 3 | Steamfont Mountains | Minotaur caves | Minotaur Hero | Minotaur’s Stone Idol | Loot drop | 18% | — | Minotaur Stone Idol |
+| 4 | Ak’Anon | Clockwork tunnels | Malfunctioning Clockwork | Rusted Cogwheel | Loot drop | 25% | Gnomish Tinker (Ak’Anon) polishes | Refined Cogwheel |
+| 5 | Felwithe | Mage guild library | Ground spawn (hidden alcove) | Silvered Rune Page | Ground pickup | 100% | — | Silvered Rune Page |
+| 6 | Kaladim | Deep king’s vault | Dwarven Royal Guard | Cracked Shield Emblem | Loot drop | 15% | Paladin Mentor (Kaladim) reforges | Reforged Shield Emblem |
+| 7 | Lesser Faydark | Brownie enclave | Brownie Trickster | Twisted Brownie Figurine | Loot drop | 20% | — | Twisted Figurine |
+| 8 | Ocean of Tears | Seafury island | Seafury Cyclops | Cyclops Eyestone | Loot drop | 15% | — | Cyclops Eyestone |
+| 9 | Butcherblock Mountains | Ancient dwarf statue | Ground spawn | Dwarven Prayer Bead | Ground pickup | 100% | — | Prayer Bead of Brell |
+| 10 | Dagnor’s Cauldron | Deep water cavern | Undertow Elemental | Elemental Core of Undertow | Loot drop | 10% | — | Undertow Core |
+| 11 | Kedge Keep | Phinigel’s lair | Phinigel Autropos | Shimmering Siren Scale | Loot drop | 12% | Mystic of Erudin (via subquest) sanctifies | Sanctified Siren Scale |
+| 12 | Estate of Unrest | Library fireplace | Ghoul Sage | Tattered Grimoire Page | Loot drop | 18% | Kaladim Librarian binds it | Bound Grimoire Page |
+| 13 | Mistmoore Castle | Grand hall | Advisor Familiars | Blood-soaked Signet | Loot drop | 12% | — | Bloodied Mistmoore Signet |
+| 14 | Plane of Fear | Dread temple | Terror Lord | Idol of Twisted Fear | Loot drop | 15% | Priest of Tranquility cleanses | Cleansed Idol of Fear |
+| 15 | Plane of Hate | Maestro’s stage | Acolyte of Hate | Hate-etched Charm | Loot drop | 12% | — | Hate-etched Charm |
+| 16 | Plane of Sky | Island 3 aviaks | Sky Sentinel | Clouded Feather | Loot drop | 18% | Sky Oracle clarifies it | Clarified Feather of Sky |
+| 17 | Plane of Fear | Outer ring | Cazic’s Minion | Shard of Dread | Loot drop | 20% | — | Shard of Dread |
+| 18 | Plane of Hate | Archmagus area | Dark Zealot | Blackened Hate Pearl | Loot drop | 14% | — | Hate Pearl |
+| 19 | Plane of Sky | Island 5 | Pegasus Spirit | Skyblessed Hoofprint | Loot drop | 15% | — | Skyblessed Hoofprint |
+| 20 | Greater Faydark | Orc Hill ruins | Ground spawn | Moss of Ancient Faydark | Ground pickup | 100% | Druid of Faydark distills into essence | Distilled Moss Essence |
+
+#### Greater Faydark
+Wood Elf Druid (Kelethin)
+
+><span style="color:#15803d">“Hail, wood elf druid”</span>
+><span style="color:#1d4ed8">“The Fragment of Emerald Canopy hums faintly beneath your hand. It longs for the forest’s touch.”</span>
+>
+><span style="color:#15803d">“Can you purify it?”</span>
+><span style="color:#1d4ed8">“I will draw the whisper of leaves and sunlight into it. Stand back… its essence shall be restored.”</span>
+>
+>(Turn in Fragment of Emerald Canopy)
+><span style="color:#1d4ed8">“It is done. Take this Purified Canopy Fragment. Place it in your satchel; the forest’s echo will guide you further.”</span>
+
+#### Kaladim
+Dwarf Blacksmith (Kaladim)
+
+><span style="color:#15803d">“Hail, dwarf blacksmith”</span>
+><span style="color:#1d4ed8">“This Chitinous Beetle Carapace… cracked and dull. I can temper it with fire and skill.”</span>
+>
+><span style="color:#15803d">“Will you reforge it?”</span>
+><span style="color:#1d4ed8">“Yes, I will polish it, restore its resilience, and awaken its hidden echo.”</span>
+>
+>(Turn in Chitinous Beetle Carapace)
+><span style="color:#1d4ed8">“It sings anew. Take the Tempered Beetle Carapace and place it in your satchel—it will call to other fragments.”</span>
+
+#### Ak’Anon
+Gnomish Tinker
+
+><span style="color:#15803d">“Greetings, tinkerer.”</span>
+><span style="color:#1d4ed8">“Ah, a Rusted Cogwheel! Its song is faint, but I can coax it to life with my tools.”</span>
+>
+><span style="color:#15803d">“Will you polish it?”</span>
+><span style="color:#1d4ed8">“Yes, I’ll refine its edges and oil its joints… the echo will resonate stronger once complete.”</span>
+>
+>(Turn in Rusted Cogwheel)
+><span style="color:#1d4ed8">“There—take this Refined Cogwheel. Its voice joins your satchel’s chorus.”</span>
+
+#### Kaladim
+Paladin Mentor
+
+><span style="color:#15803d">“Hail, Paladin Mentor”</span>
+><span style="color:#1d4ed8">“The Cracked Shield Emblem bears the scars of age and battle. Its echo needs discipline and strength.”</span>
+>
+><span style="color:#15803d">“Can you reforge it?”</span>
+><span style="color:#1d4ed8">“With care, I shall temper and polish it, so its spirit may join the Seal’s song.”</span>
+>
+>(Turn in Cracked Shield Emblem)
+><span style="color:#1d4ed8">“It is reforged. Take the Reforged Shield Emblem and place it in your satchel.”</span>
+
+#### Dagnor's Cauldron
+Mystic of Erudin (Hidden)
+
+><span style="color:#15803d">“Hail, Mystic of Erudin”</span>
+><span style="color:#1d4ed8">“I can sanctify the scale, aligning its shimmer with the Seal’s resonance. Few have the patience to listen.”</span>
+>
+>(Turn in Shimmering Siren Scale)
+><span style="color:#1d4ed8">“It is sanctified. Take this Sanctified Siren Scale; it hums in harmony with your satchel.”</span>
+
+#### Kaladim
+Kaladim Librarian
+
+><span style="color:#15803d">“Hail Kaladim Librarian.”</span>
+><span style="color:#1d4ed8">“This Tattered Grimoire Page contains whispers long forgotten. I can bind it with ancient words to awaken its echo.”</span>
+>
+>(Turn in Tattered Grimoire Page)
+><span style="color:#1d4ed8">“It speaks clearly now. Take this Bound Grimoire Page and place it in your satchel.”</span>
+
+#### Felwithe
+Priest of Tranquility
+
+><span style="color:#15803d">“You dare enter the Dread Temple?”</span>
+><span style="color:#1d4ed8">“The Idol of Twisted Fear is tainted. Only by cleansing can it speak in harmony with the Seal.”</span>
+>
+>(Turn in Idol of Twisted Fear)
+><span style="color:#1d4ed8">“It is cleansed. Take the Cleansed Idol of Fear; its echo now joins your satchel.”</span>
+
+#### Felwithe
+Sky Oracle (Mage Guild)
+
+><span style="color:#15803d">“Hail, traveler of the winds.”</span>
+><span style="color:#1d4ed8">“This Clouded Feather holds the breath of the sky. I can clarify its voice for the Seal.”</span>
+>
+>(Turn in Clouded Feather)
+><span style="color:#1d4ed8">“It is done. Take the Clarified Feather of Sky and place it in your satchel.”</span>
+
+#### Greater Faydark 
+Druid of Faydark (Wonders around)
+
+><span style="color:#15803d">“You return with Moss of Ancient Faydark.”</span>
+><span style="color:#1d4ed8">“I will distill its essence, drawing the echoes hidden within. Only then will it harmonize with your satchel.”</span>
+>
+>(Turn in Moss of Ancient Faydark)
+><span style="color:#1d4ed8">“The Distilled Moss Essence is complete. Place it in your satchel; the Seal’s song grows stronger.”</span>
+
+#### Act 2 Completion Items
+
+- Purified Canopy Fragment
+- Tempered Beetle Carapace
+- Minotaur Stone Idol
+- Refined Cogwheel
+- Silvered Rune Page
+- Reforged Shield Emblem
+- Twisted Figurine
+- Cyclops Eyestone
+- Prayer Bead of Brell
+- Undertow Core
+- Sanctified Siren Scale
+- Bound Grimoire Page
+- Bloodied Mistmoore Signet
+- Cleansed Idol of Fear
+- Hate-etched Charm
+- Clarified Feather of Sky
+- Shard of Dread
+- Blackened Hate Pearl
+- Skyblessed Hoofprint
+- Distilled Moss Essence
+
+Once combined
+New item created Satchel of the Complete Faydwer Echo
+
+><span style="color:#d97706">“The Satchel stirs with the gathered echoes. Return to the Dreaming Oracle.”</span>
+>
+>(turn in Satchel of the Complete Faydwer Echo)
+><span style="color:#1d4ed8">“Ah… the echoes of Faydwer are united. The Seal responds. You have done well, Bearer of Echoes.”</span>
+>
+><span style="color:#15803d">“What now, Oracle?”</span>
+><span style="color:#1d4ed8">“The fragments speak further… deeper still. One fragment stirs in the hands of Emperor Crush, whose greed and pride have bound it in his fortress. You must face him and claim it.”</span>
+>
+><span style="color:#15803d">“I will face him.”</span>
+><span style="color:#1d4ed8">“Prepare, Bearer. Crushbone is no ordinary battleground. The Emperor guards not only the fragment, but his minions and machines will test your resolve. Only one attuned to the Seal may claim what he holds.”</span>
+>
+><span style="color:#15803d">“Ready”</span>
+
+Crushbone Custom Content
+Killing the NPC and all the custom fight here will yeild "Piece of the Seal"
+
+>(Turn in Piece of the Seal)
+><span style="color:#1d4ed8">“Bearer of Echoes… you have returned from the heart of darkness, carrying the corrupted echo from Emperor Crush.”</span>
+>
+><span style="color:#15803d">“What happens now?”</span>
+>
+><span style="color:#1d4ed8">“Step close. I will bind the essence of your fragment with the corruption of the Seal you have wrested from Crush. Its song is no longer fractured… but transformed, tempered by your resolve.”</span>
+>
+>(Turn in Fragment of the shatter seal)
+><span style="color:#15803d">(Oracle performs the binding ritual… magical particles, light, hum of power)</span>
+>
+><span style="color:#1d4ed8">“Behold… the Chunk of the Shattered Seal. It carries the weight of the Seal’s power and the echo of the corruption you have purged. Use it wisely, Bearer, for it is both shield and key to the trials ahead.”</span>
+>
+><span style="color:#15803d">“What is my next path?”</span>
+>
+><span style="color:#1d4ed8">“The Chunk will guide you. Its resonance calls across Norrath, and the echoes of the remaining shards stir in anticipation. You have grown in strength and wisdom. Prepare, for the next Acts will demand all that you are—and more.”</span>
+>
+> ##### <span style="color:#7e22ce">(Player Flag)</span>
+
+## Recieve Chunk of the Shattered Seal
+(Need stats)
+Augment item primary only
